@@ -1,0 +1,9 @@
+vim.opt.autoread = true
+vim.opt.autowrite = true
+vim.opt.backspace = '2'
+vim.opt.laststatus = 2
+vim.opt.number = true
+vim.opt.relativenumber = true
+vim.opt.showcmd = true
+vim.opt.splitright = true
+vim.opt.splitbelow = true
